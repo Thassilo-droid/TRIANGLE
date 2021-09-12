@@ -16,8 +16,8 @@ bg = Background(0, 0, 10, "background.jpg")
 
 sprites = []
 
-straub = Character("straub", "C:\\Users\\thass\\python\\the-triangle\\tests\\straub\\", 0, 0, 10, 128, 128,)
-st = Character("straub", "C:\\Users\\thass\\python\\the-triangle\\tests\\straub\\", 0, 400, 10, 128, 128,)
+straub = Character("straub", "C:\\Users\\thass\\python\\TRIANGLE\\tests\\straub\\", 0, 0, 10, 128, 128,)
+st = Character("straub", "C:\\Users\\thass\\python\\TRIANGLE\\tests\\straub\\", 0, 400, 10, 128, 128,)
 sprites.append(straub)
 sprites.append(st)
 def redraw():
